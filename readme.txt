@@ -1,31 +1,4 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+First portfolio, but I'm looking forward to upgrading it as I learn and accomplish more! 
 
-
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Built by VIRGIL HD
+𝘝𝘦𝘳𝘪𝘭𝘺, 𝘸𝘪𝘵𝘩 𝘩𝘢𝘳𝘥𝘴𝘩𝘪𝘱 𝘤𝘰𝘮𝘦𝘴 𝘦𝘢𝘴𝘦.
