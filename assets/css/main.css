@@ -3614,7 +3614,7 @@ input, select, textarea {
 
 #work .col-6.col-12-medium {
   flex: 1 1 500px;          /* allow wrapping at ~250px */
-  max-width: 200px;         /* cap each card width */
+  max-width: 400px;         /* cap each card width */
 }
 
 #work .box {
